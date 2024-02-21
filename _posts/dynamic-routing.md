@@ -66,7 +66,7 @@ ogImage:
 
 ## Panel 6: The Confrontation
 
-[With a mischievous grin, Mike aims the airsoft pistol at Kevin.]
+[With a mischievous grin, Mike aims the pistol at Kevin.]
 
 **Mike Ross:** How about a counter-offer, Mr. Wonderful?
 

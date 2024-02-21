@@ -70,7 +70,7 @@ ogImage:
 
 **Mike:** Sometimes, the line between right and wrong isn't as clear-cut as we'd like it to be.
 
-## Mike Ross - A true Monster
+## Mike Ross - A True Monster
 
 Mike Ross's seemingly innocuous act of preventing Tanjiro from restoring Nezuko to her human form has far-reaching consequences. By thwarting Tanjiro's efforts, Mike inadvertently condemns Tanjiro to a future filled with sorrow and guilt. Not only does Tanjiro have to grapple with the permanent loss of his sister's humanity, but he also carries the burden of knowing that he was unable to fulfill his promise to her.
 

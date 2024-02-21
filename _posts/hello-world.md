@@ -1,13 +1,13 @@
 ---
 title: "Suits & Clovers: Clash of Realities"
 excerpt: "Suddenly, a sleek figure steps out from an alleyway, holding a gleaming Mac10. It's Mike Ross."
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/hello-world/ross.jpg"
 date: "2024-02-20T05:35:07.322Z"
 author:
   name: AJ / ChatGPT
-  picture: "/assets/blog/authors/tim.jpeg"
+  picture: "/assets/blog/authors/aj.jpg"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "/assets/blog/hello-world/ross.jpg"
 ---
 
 ## Panel 1: Unexpected Encounter

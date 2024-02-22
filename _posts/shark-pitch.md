@@ -2,7 +2,7 @@
 title: "Suits & Sharks: The Pitch"
 excerpt: "That's a tough offer, Kevin. It significantly undervalues my company."
 coverImage: "/assets/blog/dynamic-routing/mike.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2024-02-21T05:35:07.322Z"
 author:
   name: AJ / ChatGPT
   picture: "/assets/blog/authors/aj.jpg"
